@@ -29,8 +29,8 @@ l’algoritmo. Le caratteristiche dei file di input sono riassunte nella seguent
 | circle | 1000 | 2 | 15 |  
 | test1 | 100000 | 3 | 26 |  
 | test2 | 100000 | 4 | 10352 |  
-| test3 | 100020 | 10 | 24892 |  
-| test4 | 100009 | 8 | 17458 |  
+| test3* | 100020 | 10 | 24892 |  
+| test4* | 100009 | 8 | 17458 |  
 | test5* | 100000 | 20 | 96973 |  
 | test6* | 100100 | 50 | 100050 |  
 | test7* | 100400 | 200 | 100200 |  
